@@ -77,7 +77,7 @@ Demonstrated that the dataset included combined totals for regions that would di
 
 ## 6. View on Tableau Public
 
-[Interact with my dashboard](https://public.tableau.com/views/Global_Emissions_17395769212090/GlobalCO2Emissions?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Interact with my Dashboard](assets/Dashboard.png)](https://public.tableau.com/views/Global_Emissions_17395769212090/GlobalCO2Emissions?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 7. Acknowledgments
 
